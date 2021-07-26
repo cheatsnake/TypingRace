@@ -1,0 +1,40 @@
+.score {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #202124;;
+    color: #fff;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    transition: 0.5s all;
+    .close {
+        cursor: pointer;
+        opacity: .5;
+        font-size: 42px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 5px 15px;
+        transition: 0.3s all;
+        &:hover {
+            opacity: 1;
+        }
+    }
+
+    h2 {
+        font-size: 28px;
+        font-weight: 300;
+    }
+
+    span {
+        margin-top: 10px;
+        font-size: 28px;
+        font-weight: 600;
+        color: rgb(64, 238, 186);
+    }
+}
