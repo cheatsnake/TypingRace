@@ -1,4 +1,4 @@
-# Typing Race
+# :airplane: Typing Race
 
 [![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://cheatsnake.github.io/TypingRace)
 
@@ -10,3 +10,21 @@ Simple keyboard trainer. Thanks to this app you can train and check your current
 - Test your current typing speed.
 - Minimalistic design (Everything is simple, nothing superfluous).
 - Built on the React.
+
+
+## :zap: Available Scripts
+
+In the project directory, you can run:
+
+### Runs the server for developing
+```sh
+npm start
+```
+The page will reload if you make edits.\
+You will also see any lint errors in the console.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Create a production build
+```sh
+npm run build
+```
