@@ -7,9 +7,9 @@ Simple keyboard trainer. Thanks to this app you can train and check your current
 ## Features
 
 - Train your typing speed.
-- Test your current typing speed.
-- Minimalistic design (Everything is simple, nothing superfluous).
-- Built on the React.
+- Check your typing speed.
+- Minimalistic design.
+- Built on React.
 
 
 ## :zap: Available Scripts
